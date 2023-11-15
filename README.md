@@ -1,2 +1,1 @@
-# fuzzy-logic-ANN
-School-Projects
+# Fuzzy Loigc and ANN School Projects
